@@ -1,4 +1,4 @@
-# Data Mining Assignment 1
+# Interactive SQL Data Lab
 
 A multi-page Streamlit application using SQL, ORMs, and interactive data analysis through four distinct tasks.
 
