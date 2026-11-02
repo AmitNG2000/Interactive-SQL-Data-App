@@ -84,3 +84,7 @@ Open your browser to **http://localhost:8501**
 - **PonyORM** - ORM (Task 2)
 - **Plotly** - Interactive visualizations
 - **Wikipedia API** - External data integration (Task 2)
+
+
+## Additional Details
+Data Mining Assignment 1
